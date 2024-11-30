@@ -32,9 +32,12 @@ TODO: Add long description of the pod here.
 
   s.swift_version = '5.0'
 
-  s.public_header_files = 'SjtFramework/Classes/T3Camera.swift'  # 公开的头文件路径
 
-  s.source_files = 'SjtFramework/Classes/**/*.{h,swift}'
+  s.source_files = 'SjtFramework/Classes/**/*'
+
+  s.public_header_files = 'SjtFramework/Classes/Public/**/*.swift'
+  
+
   s.resource_bundles = {
     'SjtFramework' => ['SjtFramework/Assets/**/*']
   }

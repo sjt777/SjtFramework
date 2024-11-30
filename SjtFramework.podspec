@@ -35,7 +35,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'SjtFramework/Classes/**/*'
 
-  s.public_header_files = 'SjtFramework/Classes/Public/**/*.swift'
+  # s.public_header_files = 'SjtFramework/Classes/Public/**/*.swift'
   
 
   s.resource_bundles = {

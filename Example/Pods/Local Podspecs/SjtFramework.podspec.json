@@ -1,0 +1,22 @@
+{
+  "name": "SjtFramework",
+  "version": "0.1.0",
+  "summary": "A short description of SjtFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sunjiting/SjtFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunjiting": "997152370@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/sunjiting/SjtFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SjtFramework/Classes/**/*"
+}

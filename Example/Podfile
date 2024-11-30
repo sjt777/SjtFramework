@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SjtFramework_Tests' do
+  pod 'SjtFramework', :path => '../'
+  
+  
+end
